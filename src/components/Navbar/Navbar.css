@@ -1,0 +1,28 @@
+.navbar {
+  overflow: hidden;
+  background-color: #fc7f19ce;
+  position: relative;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.navbar h1 {
+  color: white;
+  font-weight: bolder;
+  font-size: x-large;
+  margin-bottom: 0;
+}
+
+.navlinks {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.navlinks span {
+  color: red;
+}
